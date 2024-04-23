@@ -1,6 +1,6 @@
 {
   "name": "m6a4-simple_calculator",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A m6a4-simple_calculator  with typescript,Node.js and Inquirer",
   "main": "index.js",
   "type": "module",
